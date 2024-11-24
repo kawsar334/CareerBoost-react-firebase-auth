@@ -1,0 +1,12 @@
+.hero-container {
+  background-color: #f8f9fa; /* light background */
+}
+
+.left-content h2 {
+  color: #333; /* dark text for the title */
+
+}
+
+.left-content p {
+  color: #555; /* lighter text for description */
+}
